@@ -10,7 +10,7 @@ function Init() {
       <div className="row">
         
         <img src={portada} alt="logo" className="mx-auto" style={{ maxWidth: "500px" }}/>
-
+ 
       </div>
     </div>
   );
